@@ -1,5 +1,5 @@
 import * as React from "react";
-import { StatisticProps } from "../app/brand/page";
+import { StatisticProps } from "../app/brand/brand";
 
 export const Statistic: React.FC<StatisticProps> = ({ value, label }) => {
   return (

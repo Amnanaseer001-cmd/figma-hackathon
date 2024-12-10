@@ -1,5 +1,5 @@
 import * as React from "react";
-import { TeamMemberProps } from "../app/brand/page";
+import { TeamMemberProps } from "../app/brand/brand";
 
 export const TeamMember: React.FC<TeamMemberProps> = ({
   imageSrc,

@@ -1,5 +1,5 @@
 import * as React from "react";
-import { CompanyLogoProps } from "../app/brand/page";
+import { CompanyLogoProps } from "../app/brand/brand";
 
 export const CompanyLogo: React.FC<CompanyLogoProps> = ({
   src,
