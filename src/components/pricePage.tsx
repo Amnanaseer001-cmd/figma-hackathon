@@ -153,8 +153,7 @@ const socialLinks: SocialLink[] = [
     alt: "Twitter",
   },
 ];
-
-function PricingPage() {
+export default function PricingPage() {
   return (
     <div className="flex overflow-hidden flex-col bg-white">
       {/* Header section */}
@@ -324,4 +323,3 @@ function PricingPage() {
     </div>
   );
 }
-export default PricingPage;
