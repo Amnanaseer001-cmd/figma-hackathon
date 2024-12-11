@@ -2,7 +2,7 @@ import * as React from "react";
 import { PricingCard } from "./pricingCard";
 import { FAQItem } from "./fAQs";
 import { Footer } from "./pricingFooter";
-import { PricingPlan, FAQ, FooterSection, SocialLink } from "../app/price/page";
+import { PricingPlan, FAQ, FooterSection, SocialLink } from "../app/price/new";
 
 const pricingPlans: PricingPlan[] = [
   {

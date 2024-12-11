@@ -1,5 +1,5 @@
 import * as React from "react";
-import { PricingPlan } from "../app/price/page"
+import { PricingPlan } from "../app/price/new"
 
 interface PricingCardProps {
   plan: PricingPlan;

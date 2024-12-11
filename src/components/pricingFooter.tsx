@@ -1,5 +1,5 @@
 import * as React from "react";
-import { FooterSection, SocialLink } from "../app/price/page";
+import { FooterSection, SocialLink } from "../app/price/new";
 
 interface FooterProps {
   sections: FooterSection[];

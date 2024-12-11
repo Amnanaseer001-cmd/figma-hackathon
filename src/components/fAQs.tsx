@@ -1,5 +1,5 @@
 import * as React from "react";
-import { FAQ } from "../app/price/page";
+import { FAQ } from "../app/price/new";
 
 interface FAQItemProps {
   faq: FAQ;
